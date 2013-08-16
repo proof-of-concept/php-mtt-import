@@ -17,4 +17,4 @@ Imports Mail plain text into a http://www.mytinytodo.net installation:
 
 ## Limitation
 - This script only imports the plaintext version and ignores any html or attachment content
-- Priority is not supported, but you can add tags by adding #<tag> to your subject
+- Priority is not supported, but you can add tags by adding #tag to your subject
